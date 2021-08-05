@@ -1,4 +1,4 @@
-### Hola 👋 mi experiencia lo reflejo en los proyectos que realizo para ello utilizo estas tegnologias
+### Hola 👋 mi experiencia lo reflejo en los proyectos que realizo para ello utilizo estas tegnologias.
 ### Conocimiento solido en PHP POO | MYSQL | JS | AJAX | JQUERY | BOOTSTRAP | CSS3 | HTML5 | GIT | GITHUB
 <!--
 **jmidme/jmidme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
