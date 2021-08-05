@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Conocimiento solido de PHP POO | MYSQL | JS | AJAX | JQUERY | BOOTSTRAP | CSS3 | HTML5 | GIT | GITHUB
 <!--
 **jmidme/jmidme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
