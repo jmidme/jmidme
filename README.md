@@ -1,4 +1,4 @@
-### Hola Buen dia 👋 en los siguientes proyectos demuestro mis conocimientos donde cada vez el codigo del proyecto se pretende mojorar, para ello utilizo estas tegnologias.
+### Hola Buen dia 👋 en los siguientes proyectos demuestro mis conocimientos donde cada vez el codigo del proyecto se pretende mejorar, para ello utilizo estas tegnologias.
 ### Conocimiento solido en PHP POO | MYSQL | JS | AJAX | JQUERY | BOOTSTRAP | CSS3 | HTML5 | GIT | GITHUB
 <!--
 **jmidme/jmidme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
